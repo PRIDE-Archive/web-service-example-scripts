@@ -24,7 +24,7 @@ args = parser.parse_args()
 terms = '%20'.join(args.term)
 
 # create the basic query (which is the same for count and list operations)
-query = 'q='+terms
+query = 'query='+terms
 
 # if we are not counting, we have to take the paging parameters into account
 if not args.count:
