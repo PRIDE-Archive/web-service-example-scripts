@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/PRIDE-Archive/web-service-example-scripts.svg)](https://travis-ci.org/PRIDE-Archive/web-service-example-scripts)
 # web-service-example-scripts
 example scripts to demonstrate the use of the PRIDE Archive web service
 
